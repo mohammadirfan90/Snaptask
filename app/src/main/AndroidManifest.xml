@@ -13,21 +13,11 @@
         android:theme="@style/Theme.Snaptask"
         tools:targetApi="31">
         <activity
-            android:name=".register"
+
+            android:name=".MainActivity2"
             android:exported="false" />
         <activity
-            android:name=".signUP3"
-            android:exported="false"
-            android:theme="@style/Theme.Snaptask" />
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false"
-            android:theme="@style/Theme.Snaptask" />
-        <activity
-            android:name=".SignUpActivity"
-            android:exported="false"
-            android:theme="@style/Theme.Snaptask" />
-        <activity
+
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
