@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843716939377",
+    "project_id": "snaptask-marketplace",
+    "storage_bucket": "snaptask-marketplace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843716939377:android:7bcbb2a7cfa7340506d5d0",
+        "android_client_info": {
+          "package_name": "com.example.snaptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ00Sm83lNotMWW4wcfs2El8FFA3hVA7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
