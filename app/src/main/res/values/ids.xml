@@ -3,4 +3,5 @@
     <item name="signup" type="id" />
     <item name="xyz" type="id">newID</item>
     <item name="main1" type="id">main1</item>
+    <item name="btn_login_freelancer" type="id">10</item>
 </resources>
